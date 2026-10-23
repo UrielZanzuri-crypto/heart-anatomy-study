@@ -8,5 +8,5 @@
 
 קובץ יחיד (`index.html`), ללא תלויות, עובד גם אופליין.
 
-**מקורות איורים:** OpenStax, *Anatomy & Physiology* (CC BY 3.0); Henry Gray, *Anatomy of the Human Body*, 20th ed. 1918 (Public Domain).
+**מקורות איורים:** OpenStax, *Anatomy & Physiology* (CC BY 3.0); Henry Gray, *Anatomy of the Human Body*, 20th ed. 1918 (Public Domain); Patrick J. Lynch, medical illustrator (CC BY 2.5); Sánchez-Quintana et al., *BioMed Research International* 2015, doi:10.1155/2015/547364 (CC BY 3.0).
 ההסברים נכתבו לצורכי לימוד ואינם תחליף לחומר הקורס.
